@@ -19,3 +19,5 @@ This project is a React + Tailwind-based redesign of the "Choose Your Skip Size"
 ## API Used
 
 GET https://app.wewantwaste.co.uk/api/skips/by-location?postcode=NR32&area=Lowestoft
+
+SANDBOX LINK: https://skip-selector-redesign.vercel.app/ 
